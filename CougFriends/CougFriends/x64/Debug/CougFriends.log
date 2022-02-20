@@ -1,0 +1,5 @@
+﻿  CougFriends.c
+C:\Users\yiqin\source\repos\CougFriends\CougFriends\CougFriends.c(304,7): warning C4013: 'Sleep' undefined; assuming extern returning int
+  main.c
+  Generating Code...
+  CougFriends.vcxproj -> C:\Users\yiqin\source\repos\CougFriends\x64\Debug\CougFriends.exe
